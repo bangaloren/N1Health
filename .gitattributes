@@ -1,0 +1,2 @@
+500Cities_Tracts/*.shp filter=lfs diff=lfs merge=lfs -text
+tl_2010_us_county10/*.shp filter=lfs diff=lfs merge=lfs -text
